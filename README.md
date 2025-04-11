@@ -1,0 +1,2 @@
+# Kasir
+Projek sederhana
